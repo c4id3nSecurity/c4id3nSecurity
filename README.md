@@ -1,7 +1,7 @@
 
 ### Sobre mim:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Levi;Tenho+17+anos+e+sou+desenvolvedor+Back-End;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Levi;Tenho+18+anos+e+sou+desenvolvedor+Back-End;+:%29)](https://git.io/typing-svg)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Levi,+better+known+as+c4id3n;I'm+16+years+old;I+from+Brazil,+CE;+:%29)](https://git.io/typing-svg)
